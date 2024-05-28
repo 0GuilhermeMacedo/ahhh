@@ -7,3 +7,7 @@ Mauro Gilioli
 Victor Antonio
 
 DESCRIÇÃO: Nosso projeto tem como base um sistema de consultório médico, ao qual será registrado: os nomes dos pacientes, dos médicos, o tipo de consulta, a data e horário que foi realizada e a especialização dos médicos.
+
+IDE: NETBEANS.
+JDK: 20.
+Servidor DB: Mysql.
